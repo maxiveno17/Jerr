@@ -17,7 +17,7 @@ Web Kontak
         <section class="contact-info">
             <div class="info">
                 <h2>Nomor Telepon</h2>
-                <p><a href="tel:wa.me/+6285211173483">wa.me/+62 852-1117-3483</a></p>
+                <p><a href="tel:wa.me/+6285211173483">wa.me/+6285211173483</a></p>
             </div>
             <div class="info">
                 <h2>Instagram</h2>
